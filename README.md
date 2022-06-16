@@ -1,2 +1,2 @@
 ## Ecommerce-Project
-Main portfolio project
+An E-commerce website
